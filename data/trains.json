@@ -1,38 +1,38 @@
 {
 	"trains": [
 		{
-			"name": "Hogwarts Express",
+			"name": "Subarna Express",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "Kamalapur",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"arrival": "03:00pm",
+					"departure": "03:10pm"
 				},
 				{
-					"station": "Pine",
+					"station": "Airport",
 					"status": "ON-TIME",
-					"arrival": "1:00pm",
-					"departure": "1:10pm"
+					"arrival": "3:40pm",
+					"departure": "3:50pm"
 				}
 			]
 		},
 		{
-			"name": "Flying Scotsman",
+			"name": "Upukol Express",
 			"stops": [
 				{
-					"station": "Pine",
+					"station": "Maijdee",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"arrival": "07:00am",
+					"departure": "07:10am"
 				},
 				{
-					"station": "Sycamore",
+					"station": "Chowmuhuni",
 					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:00pm",
-					"delayedDeparture": "1:17pm"
+					"arrival": "7:30am",
+					"departure": "7:40am",
+					"delayedArrival": "7:35am",
+					"delayedDeparture": "7:45am"
 				}
 			]
 		},
