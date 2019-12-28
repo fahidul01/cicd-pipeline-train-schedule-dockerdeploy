@@ -56,29 +56,29 @@
 			]
 		},
 		{
-			"name": "Golden Arrow",
+			"name": "Upaban Express",
 			"stops": [
 				{
-					"station": "Cypress",
+					"station": "Kamalapur",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"arrival": "9:40pm",
+					"departure": "9:50pm"
 				},
 				{
-					"station": "Pine",
+					"station": "Airport",
 					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
-					"delayedDeparture": "1:17pm"
+					"arrival": "10:20pm",
+					"departure": "10:30pm",
+					"delayedArrival": "10:27pm",
+					"delayedDeparture": "10:37pm"
 				},
 				{
-					"station": "Hickory",
+					"station": "Narshingdi",
 					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
-					"delayedDeparture": "1:17pm"
+					"arrival": "11:20pm",
+					"departure": "11:30pm",
+					"delayedArrival": "11:27pm",
+					"delayedDeparture": "11:37pm"
 				}
 			]
 		}
