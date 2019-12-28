@@ -37,21 +37,21 @@
 			]
 		},
 		{
-			"name": "Orient Express",
+			"name": "Jayantika Express",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "Kulaura",
 					"status": "ON-TIME",
-					"arrival": "12:00pm",
-					"departure": "12:10pm"
+					"arrival": "6:00pm",
+					"departure": "6:10pm"
 				},
 				{
-					"station": "Cypress",
+					"station": "Sylhet",
 					"status": "DELAYED",
-					"arrival": "1:00pm",
-					"departure": "1:10pm",
-					"delayedArrival": "1:07pm",
-					"delayedDeparture": "1:17pm"
+					"arrival": "7:40pm",
+					"departure": "7:50pm",
+					"delayedArrival": "7:50pm",
+					"delayedDeparture": "8:00pm"
 				}
 			]
 		},
