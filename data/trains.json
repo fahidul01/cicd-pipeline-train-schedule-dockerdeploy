@@ -33,7 +33,7 @@
 					"departure": "7:40am",
 					"delayedArrival": "7:35am",
 					"delayedDeparture": "7:50am"
-				}
+				
 			]
 		},
 		{
@@ -79,7 +79,7 @@
 					"departure": "11:30pm",
 					"delayedArrival": "11:27pm",
 					"delayedDeparture": "11:37pm"
-				}
+				
 			]
 		}
 	]
