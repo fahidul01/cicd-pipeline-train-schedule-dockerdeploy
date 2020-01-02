@@ -1,85 +1,85 @@
 {
 	"trains": [
 		{
-			"name": "Subarna Express",
+			"name": "Hogwarts Express",
 			"stops": [
 				{
-					"station": "Kamalapur",
+					"station": "Sycamore",
 					"status": "ON-TIME",
-					"arrival": "03:00pm",
-					"departure": "03:10pm"
+					"arrival": "12:00pm",
+					"departure": "12:10pm"
 				},
 				{
-					"station": "Airport",
+					"station": "Pine",
 					"status": "ON-TIME",
-					"arrival": "3:40pm",
-					"departure": "3:50pm"
+					"arrival": "1:00pm",
+					"departure": "1:10pm"
 				}
 			]
 		},
 		{
-			"name": "Upukol Express",
+			"name": "Flying Scotsman",
 			"stops": [
 				{
-					"station": "Maijdee",
+					"station": "Pine",
 					"status": "ON-TIME",
-					"arrival": "07:00am",
-					"departure": "07:10am"
+					"arrival": "12:00pm",
+					"departure": "12:10pm"
 				},
 				{
-					"station": "Chowmuhuni",
+					"station": "Sycamore",
 					"status": "DELAYED",
-					"arrival": "7:30am",
-					"departure": "7:40am",
-					"delayedArrival": "7:35am",
-					"delayedDeparture": "7:50am"
-				
-			]
-		},
-		{
-			"name": "Jayantika Express",
-			"stops": [
-				{
-					"station": "Kulaura",
-					"status": "ON-TIME",
-					"arrival": "6:00pm",
-					"departure": "6:10pm"
-				},
-				{
-					"station": "Sylhet",
-					"status": "DELAYED",
-					"arrival": "7:40pm",
-					"departure": "7:50pm",
-					"delayedArrival": "7:50pm",
-					"delayedDeparture": "8:00pm"
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:00pm",
+					"delayedDeparture": "1:17pm"
 				}
 			]
 		},
 		{
-			"name": "Upaban Express",
+			"name": "Orient Express",
 			"stops": [
 				{
-					"station": "Kamalapur",
+					"station": "Sycamore",
 					"status": "ON-TIME",
-					"arrival": "9:40pm",
-					"departure": "9:50pm"
+					"arrival": "12:00pm",
+					"departure": "12:10pm"
 				},
 				{
-					"station": "Airport",
+					"station": "Cypress",
 					"status": "DELAYED",
-					"arrival": "10:20pm",
-					"departure": "10:30pm",
-					"delayedArrival": "10:27pm",
-					"delayedDeparture": "10:37pm"
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:07pm",
+					"delayedDeparture": "1:17pm"
+				}
+			]
+		},
+		{
+			"name": "Golden Arrow",
+			"stops": [
+				{
+					"station": "Cypress",
+					"status": "ON-TIME",
+					"arrival": "12:00pm",
+					"departure": "12:10pm"
 				},
 				{
-					"station": "Narshingdi",
+					"station": "Pine",
 					"status": "DELAYED",
-					"arrival": "11:20pm",
-					"departure": "11:30pm",
-					"delayedArrival": "11:27pm",
-					"delayedDeparture": "11:37pm"
-				
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:07pm",
+					"delayedDeparture": "1:17pm"
+				},
+				{
+					"station": "Hickory",
+					"status": "DELAYED",
+					"arrival": "1:00pm",
+					"departure": "1:10pm",
+					"delayedArrival": "1:07pm",
+					"delayedDeparture": "1:17pm"
+				}
 			]
 		}
 	]
