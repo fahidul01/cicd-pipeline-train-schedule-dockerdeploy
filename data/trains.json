@@ -9,7 +9,7 @@
 					"arrival": "03:00pm",
 					"departure": "03:10pm"
 				},
-				
+				{
 					"station": "Airport",
 					"status": "ON-TIME",
 					"arrival": "3:40pm",
