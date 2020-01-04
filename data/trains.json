@@ -4,7 +4,7 @@
 			"name": "Subarna Express",
 			"stops": [
 				{
-					"station": "Kamalapur",
+					"station": "IIT",
 					"status": "ON-TIME",
 					"arrival": "03:00pm",
 					"departure": "03:10pm"
